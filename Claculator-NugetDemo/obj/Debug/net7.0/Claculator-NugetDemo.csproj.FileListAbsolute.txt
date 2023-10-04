@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Claculator-NugetDemo\bin\Debug\net7.0\Claculator-NugetDemo.deps.json
+C:\Users\user\source\repos\Claculator-NugetDemo\bin\Debug\net7.0\Claculator-NugetDemo.dll
+C:\Users\user\source\repos\Claculator-NugetDemo\bin\Debug\net7.0\Claculator-NugetDemo.pdb
+C:\Users\user\source\repos\Claculator-NugetDemo\obj\Debug\net7.0\Claculator-NugetDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Claculator-NugetDemo\obj\Debug\net7.0\Claculator-NugetDemo.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Claculator-NugetDemo\obj\Debug\net7.0\Claculator-NugetDemo.AssemblyInfo.cs
+C:\Users\user\source\repos\Claculator-NugetDemo\obj\Debug\net7.0\Claculator-NugetDemo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Claculator-NugetDemo\obj\Debug\net7.0\Claculator-NugetDemo.dll
+C:\Users\user\source\repos\Claculator-NugetDemo\obj\Debug\net7.0\refint\Claculator-NugetDemo.dll
+C:\Users\user\source\repos\Claculator-NugetDemo\obj\Debug\net7.0\Claculator-NugetDemo.pdb
+C:\Users\user\source\repos\Claculator-NugetDemo\obj\Debug\net7.0\ref\Claculator-NugetDemo.dll
